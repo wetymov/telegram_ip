@@ -1,7 +1,7 @@
 import telebot 
 import requests
 from pyfiglet import Figlet
-token = '5191596532:AAHd7QtWsrQvavdre4xmDzs1oTI-zru1BRo'
+token = 'token'
 
 bot = telebot.TeleBot(token)
 
